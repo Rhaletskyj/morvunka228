@@ -1,0 +1,22 @@
+{
+  "name": "morvunka228",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rhaletskyj/morvunka228.git"
+  },
+  "dependencies": {
+    "leleka2580130": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhaletskyj/morvunka228/issues"
+  },
+  "homepage": "https://github.com/Rhaletskyj/morvunka228#readme"
+}
