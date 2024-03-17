@@ -1,6 +1,6 @@
 {
   "name": "morvunka228",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "study",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Rhaletskyj/morvunka228.git"
+    "url": "ssh://git@github.com/Rhaletskyj/morvunka228.git"
   },
   "dependencies": {
-    "leleka2580130": "1.0.0"
+    "leleka2580130": "1.0.1"
   },
   "author": "",
   "license": "ISC",
